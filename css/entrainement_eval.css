@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+#container {
+    width: 80%;
+    margin: auto;
+    margin-top: 1%;
+}
+
+i { 
+    color: gold;
+}
+
+a {
+    color: gold;
+}
